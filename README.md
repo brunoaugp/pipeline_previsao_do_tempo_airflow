@@ -4,7 +4,7 @@
 
 O seguinte projeto tem como finalidade a coleta periódica da previsão do tempo para uma Empresa de Turismo (fictícia) que oferece seus serviços de acordo com as previsões de cada cidade.
 
-Através do pipeline é realizada a coleta dos dados previsão do tempo semanalmente utilizando a API do site: ["Visual Crossing: Weather Data & API"](
+Através do pipeline é realizada a coleta dos dados de previsão do tempo semanalmente utilizando a API do site: ["Visual Crossing: Weather Data & API"](
 https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api/ "Link da documentação da API")
 
 
